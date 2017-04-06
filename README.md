@@ -15,6 +15,6 @@ Input er her kun strings, men disse kan konverteres med:
   int result = Integer.parseInt(number);
 ````   
 ### Scanner
-Scanner classen er smartere, den har flere metoder:
+Scanner klassen er smartere, den har flere metoder:
 
 * [Java Docs](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html)
