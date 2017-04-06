@@ -12,8 +12,6 @@ Input er her kun strings, men disse kan konverteres med:
   double value = Double.parseDouble(text);
 
   String number = "10";
-  int result = Integer.parseInt(number);
-  
-````    
-
+  int result = Integer.parseInt(number);
+````   
 * [Java Docs](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html)
