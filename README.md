@@ -7,7 +7,7 @@
 ## Scanner Class
 Når vi skal have input fra konsollen har vi indtil nu brugt ````System.console().readLine();````   
 Input er her kun strings, men disse kan konverteres med:
-`````Java
+````Java
   String text = "12.34";
   double value = Double.parseDouble(text);
 
