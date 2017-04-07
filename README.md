@@ -21,4 +21,4 @@ Scanner klassen er smartere, den har flere metoder:
 
 #### Øvelse
 
-![](https://github.com/dat17v1/38_UCD_Scanner/blob/master/Exercises/Calculator.md)
+[Calculator](https://github.com/dat17v1/38_UCD_Scanner/blob/master/Exercises/Calculator.md)
