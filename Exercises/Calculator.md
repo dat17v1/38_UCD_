@@ -23,7 +23,7 @@ The result should be something like this:
 
 
 
-![](/img/calc.png)
+![](https://github.com/dat17v1/38_UCD_Scanner/blob/master/Exercises/img/calc.png)
 
 
 
