@@ -18,3 +18,7 @@ Input er her kun strings, men disse kan konverteres med:
 Scanner klassen er smartere, den har flere metoder:
 
 * [Java Docs](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html)
+
+#### Øvelse
+
+![](https://github.com/dat17v1/38_UCD_Scanner/blob/master/Exercises/Calculator.md)
