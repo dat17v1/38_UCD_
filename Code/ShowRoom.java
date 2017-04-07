@@ -13,21 +13,6 @@ public class ShowRoom
             // System.out.println("Hello " + name + " " + number  + " " + numberD);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             // String text = ""; 
 
             // for(int i = 0; i > 0; )
@@ -52,21 +37,7 @@ public class ShowRoom
                 text = scan.nextLine(); 
                 System.out.println(text);
             }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+  
 
         // System.out.print("Name: ");
         // String name = System.console().readLine();
